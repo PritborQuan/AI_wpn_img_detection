@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>M3EGXJRTEGCE_jpg.rf.b9581cc91c02c5b54daedbc3a1464320.jpg</filename>
+	<path>M3EGXJRTEGCE_jpg.rf.b9581cc91c02c5b54daedbc3a1464320.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>257</xmax>
+			<ymin>7</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Shotgun_78_jpeg_jpg.rf.ece030a11c8ab37fcee66866967d3971.jpg</filename>
+	<path>Shotgun_78_jpeg_jpg.rf.ece030a11c8ab37fcee66866967d3971.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shotgun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>321</xmin>
+			<xmax>450</xmax>
+			<ymin>15</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

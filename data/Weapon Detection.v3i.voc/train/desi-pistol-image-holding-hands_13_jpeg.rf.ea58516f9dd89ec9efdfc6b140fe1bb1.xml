@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>desi-pistol-image-holding-hands_13_jpeg.rf.ea58516f9dd89ec9efdfc6b140fe1bb1.jpg</filename>
+	<path>desi-pistol-image-holding-hands_13_jpeg.rf.ea58516f9dd89ec9efdfc6b140fe1bb1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>446</xmax>
+			<ymin>1</ymin>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

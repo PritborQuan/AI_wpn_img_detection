@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Richard-Lionheart-Sword2_jpg.rf.6f48ffd2b98761143c8ce85a6beecc9e.jpg</filename>
+	<path>Richard-Lionheart-Sword2_jpg.rf.6f48ffd2b98761143c8ce85a6beecc9e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>583</xmax>
+			<ymin>11</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

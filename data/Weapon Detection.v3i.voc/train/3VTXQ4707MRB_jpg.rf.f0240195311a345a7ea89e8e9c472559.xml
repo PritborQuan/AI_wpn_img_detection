@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3VTXQ4707MRB_jpg.rf.f0240195311a345a7ea89e8e9c472559.jpg</filename>
+	<path>3VTXQ4707MRB_jpg.rf.f0240195311a345a7ea89e8e9c472559.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>356</xmin>
+			<xmax>547</xmax>
+			<ymin>2</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Sniper_62_jpeg_jpg.rf.8818b57f565f5e39a0b240059c58dd7e.jpg</filename>
+	<path>Sniper_62_jpeg_jpg.rf.8818b57f565f5e39a0b240059c58dd7e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>409</xmax>
+			<ymin>131</ymin>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sniper rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>632</xmax>
+			<ymin>129</ymin>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

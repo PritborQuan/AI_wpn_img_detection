@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0T22OCU43WT3_jpg.rf.7483a3645614b2411c68322373924841.jpg</filename>
+	<path>0T22OCU43WT3_jpg.rf.7483a3645614b2411c68322373924841.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>631</xmax>
+			<ymin>6</ymin>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

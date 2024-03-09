@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>EUPAHNTTKNWD_jpg.rf.c3a9683da2640132dd12975ef2999f9a.jpg</filename>
+	<path>EUPAHNTTKNWD_jpg.rf.c3a9683da2640132dd12975ef2999f9a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>376</xmax>
+			<ymin>192</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

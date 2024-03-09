@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>Knife_58_jpeg_jpg.rf.357c5513d88d2ab305f6f6352c9141b8.jpg</filename>
+	<path>Knife_58_jpeg_jpg.rf.357c5513d88d2ab305f6f6352c9141b8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

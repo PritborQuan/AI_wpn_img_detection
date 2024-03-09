@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>YJ7194YMVWPU_jpg.rf.2f46f160775a0049c84db0290f36daa4.jpg</filename>
+	<path>YJ7194YMVWPU_jpg.rf.2f46f160775a0049c84db0290f36daa4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>131</xmin>
+			<xmax>507</xmax>
+			<ymin>11</ymin>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

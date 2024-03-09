@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>https___winteriscoming-net_files_2022_08_Daemon-fighting_jpg.rf.c2b0a2b6f6b2fadce641cda26063d587.jpg</filename>
+	<path>https___winteriscoming-net_files_2022_08_Daemon-fighting_jpg.rf.c2b0a2b6f6b2fadce641cda26063d587.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>311</xmax>
+			<ymin>72</ymin>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

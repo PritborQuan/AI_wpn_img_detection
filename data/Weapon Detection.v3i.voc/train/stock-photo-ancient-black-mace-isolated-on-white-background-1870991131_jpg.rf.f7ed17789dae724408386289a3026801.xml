@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>stock-photo-ancient-black-mace-isolated-on-white-background-1870991131_jpg.rf.f7ed17789dae724408386289a3026801.jpg</filename>
+	<path>stock-photo-ancient-black-mace-isolated-on-white-background-1870991131_jpg.rf.f7ed17789dae724408386289a3026801.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>599</xmax>
+			<ymin>145</ymin>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

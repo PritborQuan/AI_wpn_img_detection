@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>RIKSEA4L00NU_jpg.rf.fe6ca577d7fd9a90e71f1a269503e002.jpg</filename>
+	<path>RIKSEA4L00NU_jpg.rf.fe6ca577d7fd9a90e71f1a269503e002.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>562</xmax>
+			<ymin>33</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

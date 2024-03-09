@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Grenade-Launcher_23_jpeg_jpg.rf.52a36e14f8883658abf858aa11e79de9.jpg</filename>
+	<path>Grenade-Launcher_23_jpeg_jpg.rf.52a36e14f8883658abf858aa11e79de9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shotgun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>544</xmax>
+			<ymin>72</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

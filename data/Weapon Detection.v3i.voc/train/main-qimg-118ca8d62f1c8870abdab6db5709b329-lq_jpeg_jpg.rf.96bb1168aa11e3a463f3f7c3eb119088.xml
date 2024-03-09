@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>main-qimg-118ca8d62f1c8870abdab6db5709b329-lq_jpeg_jpg.rf.96bb1168aa11e3a463f3f7c3eb119088.jpg</filename>
+	<path>main-qimg-118ca8d62f1c8870abdab6db5709b329-lq_jpeg_jpg.rf.96bb1168aa11e3a463f3f7c3eb119088.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>636</xmax>
+			<ymin>1</ymin>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

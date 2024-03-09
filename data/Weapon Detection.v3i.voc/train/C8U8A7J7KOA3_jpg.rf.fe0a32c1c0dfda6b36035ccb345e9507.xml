@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>C8U8A7J7KOA3_jpg.rf.fe0a32c1c0dfda6b36035ccb345e9507.jpg</filename>
+	<path>C8U8A7J7KOA3_jpg.rf.fe0a32c1c0dfda6b36035ccb345e9507.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>558</xmax>
+			<ymin>83</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>armas-263-_jpg.rf.7a40c51fc3e43da98d818aa4b02d2a46.jpg</filename>
+	<path>armas-263-_jpg.rf.7a40c51fc3e43da98d818aa4b02d2a46.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>427</xmin>
+			<xmax>583</xmax>
+			<ymin>231</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

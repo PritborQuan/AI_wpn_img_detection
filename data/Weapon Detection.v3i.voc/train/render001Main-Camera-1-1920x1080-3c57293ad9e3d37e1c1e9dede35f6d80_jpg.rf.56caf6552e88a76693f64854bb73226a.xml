@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>render001Main-Camera-1-1920x1080-3c57293ad9e3d37e1c1e9dede35f6d80_jpg.rf.56caf6552e88a76693f64854bb73226a.jpg</filename>
+	<path>render001Main-Camera-1-1920x1080-3c57293ad9e3d37e1c1e9dede35f6d80_jpg.rf.56caf6552e88a76693f64854bb73226a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>601</xmax>
+			<ymin>151</ymin>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

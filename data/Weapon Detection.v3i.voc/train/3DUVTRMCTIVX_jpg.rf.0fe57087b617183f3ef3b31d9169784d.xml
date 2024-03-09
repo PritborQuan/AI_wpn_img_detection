@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3DUVTRMCTIVX_jpg.rf.0fe57087b617183f3ef3b31d9169784d.jpg</filename>
+	<path>3DUVTRMCTIVX_jpg.rf.0fe57087b617183f3ef3b31d9169784d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>598</xmax>
+			<ymin>81</ymin>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

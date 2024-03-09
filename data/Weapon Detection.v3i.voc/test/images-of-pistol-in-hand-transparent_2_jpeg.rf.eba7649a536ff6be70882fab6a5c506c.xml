@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>images-of-pistol-in-hand-transparent_2_jpeg.rf.eba7649a536ff6be70882fab6a5c506c.jpg</filename>
+	<path>images-of-pistol-in-hand-transparent_2_jpeg.rf.eba7649a536ff6be70882fab6a5c506c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>611</xmax>
+			<ymin>25</ymin>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

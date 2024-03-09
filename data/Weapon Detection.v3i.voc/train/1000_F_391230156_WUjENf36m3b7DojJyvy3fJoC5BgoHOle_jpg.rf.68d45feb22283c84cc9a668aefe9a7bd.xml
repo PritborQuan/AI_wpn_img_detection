@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1000_F_391230156_WUjENf36m3b7DojJyvy3fJoC5BgoHOle_jpg.rf.68d45feb22283c84cc9a668aefe9a7bd.jpg</filename>
+	<path>1000_F_391230156_WUjENf36m3b7DojJyvy3fJoC5BgoHOle_jpg.rf.68d45feb22283c84cc9a668aefe9a7bd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>412</xmax>
+			<ymin>27</ymin>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

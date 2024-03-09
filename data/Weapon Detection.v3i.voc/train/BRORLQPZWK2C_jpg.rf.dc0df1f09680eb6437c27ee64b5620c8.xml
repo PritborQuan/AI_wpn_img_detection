@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BRORLQPZWK2C_jpg.rf.dc0df1f09680eb6437c27ee64b5620c8.jpg</filename>
+	<path>BRORLQPZWK2C_jpg.rf.dc0df1f09680eb6437c27ee64b5620c8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>632</xmax>
+			<ymin>109</ymin>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Linggis-232-_jpg.rf.9523bc881b9177bb2865389c61e1266b.jpg</filename>
+	<path>Linggis-232-_jpg.rf.9523bc881b9177bb2865389c61e1266b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Linggis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>331</xmax>
+			<ymin>11</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

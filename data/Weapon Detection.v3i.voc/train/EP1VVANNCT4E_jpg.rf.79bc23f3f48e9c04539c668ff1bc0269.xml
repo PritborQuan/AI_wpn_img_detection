@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>EP1VVANNCT4E_jpg.rf.79bc23f3f48e9c04539c668ff1bc0269.jpg</filename>
+	<path>EP1VVANNCT4E_jpg.rf.79bc23f3f48e9c04539c668ff1bc0269.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>378</xmax>
+			<ymin>203</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

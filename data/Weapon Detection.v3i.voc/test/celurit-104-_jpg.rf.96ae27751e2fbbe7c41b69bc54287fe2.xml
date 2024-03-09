@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>celurit-104-_jpg.rf.96ae27751e2fbbe7c41b69bc54287fe2.jpg</filename>
+	<path>celurit-104-_jpg.rf.96ae27751e2fbbe7c41b69bc54287fe2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Celurit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>369</xmax>
+			<ymin>12</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

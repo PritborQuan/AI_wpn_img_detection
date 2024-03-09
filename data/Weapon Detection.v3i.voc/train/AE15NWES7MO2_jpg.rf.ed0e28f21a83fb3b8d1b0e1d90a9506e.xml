@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>AE15NWES7MO2_jpg.rf.ed0e28f21a83fb3b8d1b0e1d90a9506e.jpg</filename>
+	<path>AE15NWES7MO2_jpg.rf.ed0e28f21a83fb3b8d1b0e1d90a9506e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>579</xmax>
+			<ymin>27</ymin>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

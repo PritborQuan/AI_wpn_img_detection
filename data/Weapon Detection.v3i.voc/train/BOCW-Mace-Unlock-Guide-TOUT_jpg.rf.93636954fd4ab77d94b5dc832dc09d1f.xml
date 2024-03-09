@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BOCW-Mace-Unlock-Guide-TOUT_jpg.rf.93636954fd4ab77d94b5dc832dc09d1f.jpg</filename>
+	<path>BOCW-Mace-Unlock-Guide-TOUT_jpg.rf.93636954fd4ab77d94b5dc832dc09d1f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>122</xmin>
+			<xmax>425</xmax>
+			<ymin>333</ymin>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

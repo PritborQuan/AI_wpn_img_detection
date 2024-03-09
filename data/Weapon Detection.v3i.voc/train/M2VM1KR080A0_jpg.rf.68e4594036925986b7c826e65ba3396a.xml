@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>M2VM1KR080A0_jpg.rf.68e4594036925986b7c826e65ba3396a.jpg</filename>
+	<path>M2VM1KR080A0_jpg.rf.68e4594036925986b7c826e65ba3396a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>122</xmin>
+			<xmax>356</xmax>
+			<ymin>32</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

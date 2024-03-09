@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a-sword-that-i-designed-for-my-norse-themed-comic-v0-l7wkqf6np9191_jpeg_jpg.rf.4ee405e2017ef38475e6d44a71aa21e6.jpg</filename>
+	<path>a-sword-that-i-designed-for-my-norse-themed-comic-v0-l7wkqf6np9191_jpeg_jpg.rf.4ee405e2017ef38475e6d44a71aa21e6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>549</xmax>
+			<ymin>24</ymin>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

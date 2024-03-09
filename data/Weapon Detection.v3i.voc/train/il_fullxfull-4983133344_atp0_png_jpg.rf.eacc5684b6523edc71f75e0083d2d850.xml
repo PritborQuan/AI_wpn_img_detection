@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>il_fullxfull-4983133344_atp0_png_jpg.rf.eacc5684b6523edc71f75e0083d2d850.jpg</filename>
+	<path>il_fullxfull-4983133344_atp0_png_jpg.rf.eacc5684b6523edc71f75e0083d2d850.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>632</xmax>
+			<ymin>135</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

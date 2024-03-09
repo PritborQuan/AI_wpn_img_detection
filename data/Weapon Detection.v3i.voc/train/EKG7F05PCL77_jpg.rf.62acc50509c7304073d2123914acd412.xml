@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>EKG7F05PCL77_jpg.rf.62acc50509c7304073d2123914acd412.jpg</filename>
+	<path>EKG7F05PCL77_jpg.rf.62acc50509c7304073d2123914acd412.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

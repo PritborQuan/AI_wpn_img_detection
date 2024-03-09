@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bazooka_11_png_jpg.rf.74544f36e5421197f64e17bc25dd188b.jpg</filename>
+	<path>Bazooka_11_png_jpg.rf.74544f36e5421197f64e17bc25dd188b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rocket launcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>582</xmax>
+			<ymin>114</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

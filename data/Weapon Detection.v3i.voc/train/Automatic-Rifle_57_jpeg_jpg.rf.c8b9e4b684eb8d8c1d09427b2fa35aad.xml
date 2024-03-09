@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Automatic-Rifle_57_jpeg_jpg.rf.c8b9e4b684eb8d8c1d09427b2fa35aad.jpg</filename>
+	<path>Automatic-Rifle_57_jpeg_jpg.rf.c8b9e4b684eb8d8c1d09427b2fa35aad.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>582</xmax>
+			<ymin>165</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

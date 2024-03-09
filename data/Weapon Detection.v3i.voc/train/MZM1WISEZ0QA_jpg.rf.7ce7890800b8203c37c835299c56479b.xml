@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>MZM1WISEZ0QA_jpg.rf.7ce7890800b8203c37c835299c56479b.jpg</filename>
+	<path>MZM1WISEZ0QA_jpg.rf.7ce7890800b8203c37c835299c56479b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>640</xmax>
+			<ymin>163</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

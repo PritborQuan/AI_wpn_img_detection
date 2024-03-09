@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>two-handed-berserker-axe-4_700x7_jpg.rf.49303d8f0f57c930e0f97df8f674dccc.jpg</filename>
+	<path>two-handed-berserker-axe-4_700x7_jpg.rf.49303d8f0f57c930e0f97df8f674dccc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>axe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>251</xmin>
+			<xmax>538</xmax>
+			<ymin>16</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

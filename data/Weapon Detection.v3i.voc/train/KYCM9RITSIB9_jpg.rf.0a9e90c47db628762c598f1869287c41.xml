@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>KYCM9RITSIB9_jpg.rf.0a9e90c47db628762c598f1869287c41.jpg</filename>
+	<path>KYCM9RITSIB9_jpg.rf.0a9e90c47db628762c598f1869287c41.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>83</xmin>
+			<xmax>369</xmax>
+			<ymin>422</ymin>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>armas-115-_jpg.rf.f2f7192939c653ef57e385d995341dc0.jpg</filename>
+	<path>armas-115-_jpg.rf.f2f7192939c653ef57e385d995341dc0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>229</xmax>
+			<ymin>246</ymin>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

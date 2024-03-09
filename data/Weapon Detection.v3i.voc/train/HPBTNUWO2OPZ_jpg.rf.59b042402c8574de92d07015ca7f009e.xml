@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>HPBTNUWO2OPZ_jpg.rf.59b042402c8574de92d07015ca7f009e.jpg</filename>
+	<path>HPBTNUWO2OPZ_jpg.rf.59b042402c8574de92d07015ca7f009e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>578</xmax>
+			<ymin>179</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

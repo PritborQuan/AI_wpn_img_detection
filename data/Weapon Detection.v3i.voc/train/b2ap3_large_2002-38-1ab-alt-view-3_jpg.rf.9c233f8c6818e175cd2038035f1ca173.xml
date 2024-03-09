@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b2ap3_large_2002-38-1ab-alt-view-3_jpg.rf.9c233f8c6818e175cd2038035f1ca173.jpg</filename>
+	<path>b2ap3_large_2002-38-1ab-alt-view-3_jpg.rf.9c233f8c6818e175cd2038035f1ca173.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>katana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>401</xmax>
+			<ymin>16</ymin>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

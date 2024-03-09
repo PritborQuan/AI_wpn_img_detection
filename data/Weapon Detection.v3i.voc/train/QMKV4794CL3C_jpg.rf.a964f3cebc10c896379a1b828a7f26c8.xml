@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>QMKV4794CL3C_jpg.rf.a964f3cebc10c896379a1b828a7f26c8.jpg</filename>
+	<path>QMKV4794CL3C_jpg.rf.a964f3cebc10c896379a1b828a7f26c8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>626</xmax>
+			<ymin>15</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Grenade-Launcher_15_png_jpg.rf.f00f4240b542495e4579f49299858cf4.jpg</filename>
+	<path>Grenade-Launcher_15_png_jpg.rf.f00f4240b542495e4579f49299858cf4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rocket launcher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>553</xmax>
+			<ymin>17</ymin>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

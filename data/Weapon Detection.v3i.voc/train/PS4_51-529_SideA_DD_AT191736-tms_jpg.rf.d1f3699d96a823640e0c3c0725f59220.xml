@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PS4_51-529_SideA_DD_AT191736-tms_jpg.rf.d1f3699d96a823640e0c3c0725f59220.jpg</filename>
+	<path>PS4_51-529_SideA_DD_AT191736-tms_jpg.rf.d1f3699d96a823640e0c3c0725f59220.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>559</xmax>
+			<ymin>202</ymin>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sword_65_jpeg_jpg.rf.300c86f6bc9b4068ae531428544df35f.jpg</filename>
+	<path>Sword_65_jpeg_jpg.rf.300c86f6bc9b4068ae531428544df35f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>251</xmin>
+			<xmax>366</xmax>
+			<ymin>10</ymin>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

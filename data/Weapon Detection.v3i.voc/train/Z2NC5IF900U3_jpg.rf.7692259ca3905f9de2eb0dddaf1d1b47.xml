@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Z2NC5IF900U3_jpg.rf.7692259ca3905f9de2eb0dddaf1d1b47.jpg</filename>
+	<path>Z2NC5IF900U3_jpg.rf.7692259ca3905f9de2eb0dddaf1d1b47.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyweapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>613</xmax>
+			<ymin>120</ymin>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

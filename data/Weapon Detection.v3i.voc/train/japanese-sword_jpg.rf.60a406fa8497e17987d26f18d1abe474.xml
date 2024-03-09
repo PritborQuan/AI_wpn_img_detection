@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>japanese-sword_jpg.rf.60a406fa8497e17987d26f18d1abe474.jpg</filename>
+	<path>japanese-sword_jpg.rf.60a406fa8497e17987d26f18d1abe474.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>katana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>325</xmax>
+			<ymin>1</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

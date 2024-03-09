@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Automatic-Rifle_53_jpeg_jpg.rf.86360474a0a34401af22a32b00781e51.jpg</filename>
+	<path>Automatic-Rifle_53_jpeg_jpg.rf.86360474a0a34401af22a32b00781e51.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>580</xmax>
+			<ymin>105</ymin>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

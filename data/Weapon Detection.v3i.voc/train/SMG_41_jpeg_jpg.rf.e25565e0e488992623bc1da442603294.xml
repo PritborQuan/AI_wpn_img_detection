@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>SMG_41_jpeg_jpg.rf.e25565e0e488992623bc1da442603294.jpg</filename>
+	<path>SMG_41_jpeg_jpg.rf.e25565e0e488992623bc1da442603294.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>632</xmax>
+			<ymin>100</ymin>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

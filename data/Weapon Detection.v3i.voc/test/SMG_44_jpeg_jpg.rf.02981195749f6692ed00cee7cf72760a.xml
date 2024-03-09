@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>SMG_44_jpeg_jpg.rf.02981195749f6692ed00cee7cf72760a.jpg</filename>
+	<path>SMG_44_jpeg_jpg.rf.02981195749f6692ed00cee7cf72760a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>618</xmax>
+			<ymin>14</ymin>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>
